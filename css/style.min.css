@@ -1262,7 +1262,7 @@ body._lock {
     transform: translate(0, -60%);
     width: 253px;
     height: 476px;
-    background: url(../img/system/paw_big.webp) center/contain no-repeat;
+    background: url(/coin.png) center/contain no-repeat;
     z-index: -1
 }
 
